@@ -1,0 +1,27 @@
+[
+    {
+        "from": "Airport",
+        "to": "HKU",
+        "fare": 60
+    },
+    {
+        "from": "Airport",
+        "to": "To Kwa Wan",
+        "fare": 60
+    },
+    {
+        "from": "Airport",
+        "to": "Kowloon Bay",
+        "fare": 60
+    },
+    {
+        "from": "Tsim Sha Tsui",
+        "to": "Wong Tai Sin",
+        "fare": 60
+    },
+    {
+        "from": "Tsim Sha Tsui",
+        "to": "Sheung Wan",
+        "fare": 60
+    }
+]

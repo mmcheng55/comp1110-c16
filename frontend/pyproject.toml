@@ -1,0 +1,16 @@
+[project]
+name = "frontend"
+version = "0.1.0"
+description = "A frontend for a transport planning application"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
