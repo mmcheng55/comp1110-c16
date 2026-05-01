@@ -78,7 +78,8 @@ uv --version
 Open a terminal at the repository root:
 
 ```sh
-cd "Code"
+git clone https://github.com/mmcheng55/comp1110-c16  # if you haven't cloned the project yet
+cd comp1110-c16
 ```
 
 ### 2. Setup Backend
